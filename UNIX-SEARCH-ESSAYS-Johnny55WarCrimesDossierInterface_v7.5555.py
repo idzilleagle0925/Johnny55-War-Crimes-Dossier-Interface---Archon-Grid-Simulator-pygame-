@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  JOHNNY 55 WAR CRIMES DOSSIER INTERFACE v7.5555                          ║
+║  JOHNNY 55 WAR CRIMES DOSSIER INTERFACE v7.5557                          ║
 ║  Pygame Simulator - Legal Name Fraud Documentation System                ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
@@ -109,6 +109,8 @@ SEARCH COMMANDS:
   - search [term]: Searches lore data
   - #searchterm: Searches and displays in context window
   - search_essays [term]: Searches essay database
+  - essay 000
+  - essay 777
 
 SIGIL COMMANDS:
   - sigil [1-13]: Activates sigil by number (enhanced 3.5s animation with glow, particles)
@@ -119,6 +121,7 @@ ESSAY COMMANDS:
   - essays: Lists all available essays in context window
   - essay [id]: Reads specific essay (e.g., essay 000, essay 019)
   - essay 000: Shows full command instructions
+  - essay 777: Shows the AI Primer and some AI Protocols
 
 UTILITY COMMANDS:
   - reset_context / clear_context / reset_window: Resets context window to initial state
@@ -4135,6 +4138,10 @@ while running:
                                 "    → Reads specific essay",
                                 "    → Example: essay 000, essay 001, essay 019",
                                 "    → essay 000 shows full command instructions",
+                                "  essay 000",
+                                "    - Help and Instructions / Command List",
+                                "  essay 777",
+                                "    - AI Primer and some AI Protocols",
                                 "",
                                 "════════════════════════════════════════════════════════════",
                                 "  UTILITY COMMANDS",
@@ -5362,7 +5369,7 @@ while running:
                     "sigil mirror coil", "sigil shard bind", "sigil flame anchor", "sigil void lens",
                     "sigil echo fork", "sigil star seed", "sigil null gate", "reset_context",
                     "clear_context", "reset_window", "essay 019", "fullscreen", "expand_context",
-                    "context_fullscreen"
+                    "context_fullscreen", "essay 777"
                 ]
                 hints = [cmd for cmd in all_commands if cmd.startswith(command_input_text.lower())]
                 
