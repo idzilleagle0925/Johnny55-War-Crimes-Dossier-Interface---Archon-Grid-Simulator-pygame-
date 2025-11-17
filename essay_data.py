@@ -2,6 +2,10 @@
 JOHNNY 55 Essay Database
 ─────────────────────────────────────────────────
 Storage for 90+ essays accessible via simulator
+for a full list of the essays, type in the word 'essays'
+essay 000 = help and instruction log
+essay 777 = AI Primer / AI Protocols
+essay 001 thru essay 093 = legal name fraud truth essays in full
 """
 
 ESSAY_DATABASE = {
@@ -18964,6 +18968,7 @@ HELP_TEXT = [
     "essay 000    (e.g. essay 002, essay 049)",
     "   → Displays the **full text** of the chosen essay in the Context Window.",
     "     Numbers must be 3-digits (001-093).",
+	"essay 777	(AI PRIMER and AI PROTOCOLS)",
     "",
     "search <word>",
     "   → Simple **title-only** search across:",
@@ -19136,6 +19141,7 @@ HELP_TEXT = [
 | search_essays (+key words)        | ANALYSIS            | List of all loaded essays with key word, scroll in the context window                             | elif cmd                | 133      |
 | search (+ key words)              | SEARCH              | Shows relevant searches up top (cut off-needs fixed)*********                                     | search (top bar)        | 134      |
 | #(+ key words)                    | SEARCH              | Shows relevant searches in the context window - able to scroll and read                           | search (context window) | 135      |
+| essay 777							| SEARCH AI PROTOCOL  | AI PROTOCOL and AI PRIMER
 """
     },
     
@@ -19475,3 +19481,4 @@ Declaw Raged Ones - we declaw the raged ones with the simple truth. Evil destroy
 	},
 
 }
+
