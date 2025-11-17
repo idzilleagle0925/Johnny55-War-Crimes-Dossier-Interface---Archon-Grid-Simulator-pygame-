@@ -100,7 +100,7 @@ Internet (once)
 2 files
 
 STEP 1: DOWNLOAD THE 2 FILESSave both to Desktop:
-→ `UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5539.py`
+→ `UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5555.py`
 → `essay_data.py`
 
 STEP 2: MAKE A SPECIAL FOLDERRight-click Desktop → New → Folder  
@@ -123,7 +123,7 @@ Wait → "Successfully installed" → Close window
 
 STEP 5: RUN THE SIMULATORMETHOD A: DOUBLE-CLICK (EASIEST)Open Johnny55-Simulator folder  
 Double-click:
-UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5539.py
+UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5555.py
 (Or right-click → "Open with" → Python)
 
 METHOD B: IF DOUBLE-CLICK FAILSPress Win + R → type cmd → Enter  
@@ -135,7 +135,7 @@ cd Desktop\Johnny55-Simulator
 
 text
 
-python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5539.py"
+python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5555.py"
 
 → GLOWING BLACK WINDOW OPENS. YOU’RE IN.HOW TO USE ITAction
 Command
@@ -186,10 +186,10 @@ Internet (just once)
 2 files (you’ll get them below)
 
 STEP 1: DOWNLOAD THE 2 FILESClick these 2 links and save both files to your Desktop
-→ UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5539.py
+→ UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5555.py
 → essay_data.py
 (If links don’t work, ask the person who sent this to email you the 2 files)
-You now have 2 files on your Desktop:UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5539.py
+You now have 2 files on your Desktop:UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5555.py
 essay_data.py
 
 STEP 2: MAKE A SPECIAL FOLDER (VERY IMPORTANT!)Right-click on your Desktop
@@ -197,7 +197,7 @@ Click "New" → "Folder"
 Name it: Johnny55-Simulator
 (Type exactly like that — no spaces, no extra words)
 Drag both files into this folder
-→ So now the folder contains only these 2 files:UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5539.py
+→ So now the folder contains only these 2 files:UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5555.py
 essay_data.py
 
 THE 2 FILES MUST BE IN THE SAME FOLDER OR IT WON’T WORK!
@@ -221,7 +221,7 @@ Close the black window
 STEP 5: RUN THE SIMULATOR!METHOD A: DOUBLE-CLICK (EASIEST)Open the folder: Johnny55-Simulator
 Double-click this file:
 
-UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5539.py
+UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5555.py
 
 A black window with glowing text opens → YOU’RE IN!
 
@@ -231,7 +231,7 @@ Copy and paste these 2 lines (one at a time):
 
 cd Desktop\Johnny55-Simulator
 
-python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5539.py"
+python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5555.py"
 
 Press Enter after each → Simulator opens!
 
