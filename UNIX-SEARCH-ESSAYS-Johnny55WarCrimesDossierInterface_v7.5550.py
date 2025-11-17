@@ -384,7 +384,7 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 2/12/2012] LEFT W NOTHING"
     },
     {
-        "item": "T'Win'55 Dad's Birthday",
+        "item": "T'Win'55 Dad BDay",
         "status": "[✓ 7/25] THE DAY OUTSIDE OF TIME"
     },
     {
@@ -480,7 +480,7 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 12/14/2024] LEGAL NAME FRAUD TRUTH CHANNEL"
     },
     {
-        "item": "T'Win'55 MUMMY PASSING",
+        "item": "T'Win'55 MUMMY X'ing",
         "status": "[✓ 11/14/1987]"
     },
     {
