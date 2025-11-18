@@ -1,7 +1,7 @@
 # Johnny55-War-Crimes-Dossier-Interface---Archon-Grid-Simulator-pygame-
 Johnny55 War Crimes Dossier Interface - Archon Grid Simulator (pygame)
 
-CURRENT VERSION = v7.5559
+CURRENT VERSION = v7.5560
 
 The Johnny55 War Crimes Dossier Interface is a one-stop, interactive truth-learning hub designed to expose the hidden mechanics of spiritual and commercial enslavement through legal name fraud. Powered by a cinematic Pygame dashboard, it delivers over 90 original essays, live sigil activations, quantum anomaly calculations, and a living witness indictment against global entities — all in one immersive, scrollable, command-driven environment. 
 
@@ -149,7 +149,7 @@ Internet (once)
 2 files
 
 STEP 1: DOWNLOAD THE 2 FILESSave both to Desktop:
-→ `UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5559.py`
+→ `UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py`
 → `essay_data.py`
 
 STEP 2: MAKE A SPECIAL FOLDERRight-click Desktop → New → Folder  
@@ -174,7 +174,7 @@ STEP 5: RUN THE SIMULATOR
 
 METHOD A: DOUBLE-CLICK (EASIEST)Open Johnny55-Simulator folder  
 Double-click:
-UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5559.py
+UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
 (Or right-click → "Open with" → Python)
 
 METHOD B: IF DOUBLE-CLICK FAILSPress Win + R → type cmd → Enter  
@@ -186,7 +186,7 @@ cd Desktop\Johnny55-Simulator
 
 text
 
-python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5559.py"
+python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py"
 
 → GLOWING BLACK WINDOW OPENS. YOU’RE IN.HOW TO USE IT
 Action
@@ -240,10 +240,10 @@ Internet (just once)
 
 STEP 1: DOWNLOAD THE 2 FILES
 Click these 2 links and save both files to your Desktop
-→ UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5559.py
+→ UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
 → essay_data.py
 (If links don’t work, ask the person who sent this to email you the 2 files)
-You now have 2 files on your Desktop:UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5559.py
+You now have 2 files on your Desktop:UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
 essay_data.py
 
 STEP 2: MAKE A SPECIAL FOLDER (VERY IMPORTANT!)
@@ -253,7 +253,7 @@ Name it: Johnny55-Simulator
 (Type exactly like that — no spaces, no extra words)
 Drag both files into this folder
 → So now the folder contains only these 2 files:
-UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5559.py
+UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
 essay_data.py
 
 THE 2 FILES MUST BE IN THE SAME FOLDER OR IT WON’T WORK!
@@ -285,7 +285,7 @@ METHOD A: DOUBLE-CLICK (EASIEST)
 Open the folder: Johnny55-Simulator
 Double-click this file:
 
-UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5559.py
+UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
 
 A black window with glowing text opens → YOU’RE IN!
 
@@ -296,7 +296,7 @@ Copy and paste these 2 lines (one at a time):
 
 cd Desktop\Johnny55-Simulator
 
-python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5559.py"
+python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py"
 
 Press Enter after each → Simulator opens!
 
