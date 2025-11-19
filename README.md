@@ -1,4 +1,4 @@
-# TE-925 TRUTH ENGINE ---> [ https://legalnamefraud.co ] <---
+# TE-925 Truth Engine -->[ https://legalnamefraud.co ]<--
 Johnny55 Truth Interface - Archon Grid Simulator
 [made with Python (pygame)]
 
