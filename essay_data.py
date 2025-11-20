@@ -19010,8 +19010,62 @@ BB: See you later.
         "content": """
 
 # help_data #searchterm searchterm search term
-HELP, help, 911, How to, how-to, ?, ??, ???, assistance, manual, guide, tutorial, instructions, info, information 
-HELP_TEXT = [
+HELP, help, 911, How to, how-to, ?, ??, ???, assistance, manual, guide, tutorial, instructions, info, information
+Before we list the commands, here is a basic intro
+
+💡 TE-925 Truth Engine Purpose and Function
+The TE-925 Truth Engine, designated as v7.5560 and running as the JOHNNY 55 TRUTH INTERFACE, is a Pygame Simulator system.
+
+Core Purpose: The simulator's primary function is to serve as an interactive, customizable research and awareness tool focused 
+entirely on Legal Name Fraud. Its goal is to provide a gateway to learning all about Legal Name Fraud and, consequently, a path to 
+learning all about yourself.
+
+Operational Theme: The program uses a game-like interface to communicate fundamental concepts:
+names = labels 
+player = awareness
+collision = reminder
+
+Functionality: The system features over 160 commands. This includes a dedicated set of over 90 commands that specifically open and 
+display each of the available essays in the system's documentation (e.g., essay 001, essay 093). 
+The remaining commands trigger system diagnostics, visual effects (such as the SIGIL DECK animations), and data cycling, creating an 
+interactive environment for deep study. 
+The source code is designed for easy editing and customization, facilitating personalized research by running multiple instances of 
+the Pygame window simultaneously—one for essay lists, one for command input, and one for reading essays.
+
+🔎 The Three Search Functions
+The TE-925 Truth Engine provides three distinct methods for accessing information from its lore data and extensive essay database.
+Search Level					Command Structure					Data Source & Output Location
+Basic							  search [term]						Searches internal Lore & Data. 
+																	Results display at the Top of the Screen 
+																	(can be cut off by length).
+
+Intermediate					#[term] (e.g., #bccrss)				Searches internal Lore & Data. Results display in the Context Window 
+																	below the command line, allowing for expansion and full viewing.
+
+Advanced						 search_essays [id/term]			Specifically searches and retrieves content from the Essay Database (e.g., essay 019). 
+																	Results are loaded into the Context Window.
+																	
+1. Basic Search: search [term]
+What it does: This command is for quick checks against the system's core lore and data definitions (e.g., the LIVING_WITNESS_DOSSIER).
+Output: The result is displayed at the top of the screen.
+Key Detail: If the result is long, it may be cut off, requiring a secondary, more detailed search.
+
+2. Intermediate Search: #[term]
+What it does: This is a streamlined, context-aware method to search the same core lore data.
+Example: Using #bccrss will retrieve the data associated with that specific tag or term.
+Output: The results are displayed down below in the Context Window.
+Key Detail: The Context Window can be scrolled to read the full page of results without truncation.
+
+3. Advanced Search (Essay Retrieval): search_essays [id]
+What it does: This command acts as a gateway to the documentation, specifically loading essays on Legal Name Fraud from the Essay Database.
+Example: Using search_essays 019 retrieves Essay 019 (the BCCRSS document).
+Output: The full text of the requested essay is loaded into the Context Window.
+Key Detail: You must scroll the Context Window to read the complete text of the document.
+
+Game State = Awake. 
+Press START to begin.
+
+HELP = [
     "╔══════════════════════════════════════════════════════════════════════════╗",
     "║                         JOHNNY 55 DOSSIER - COMMAND HELP                         ║",
     "╚══════════════════════════════════════════════════════════════════════════╝",
@@ -19764,5 +19818,6 @@ INTEGRITY = LIFE` `> TRUTH = GOD` `> WKT = WISDOM KNOWLEDGE TRUTH` `> THE GOLD-T
 	},
 
 }
+
 
 
