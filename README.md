@@ -6,7 +6,8 @@ Johnny55 Truth Interface - Archon Grid Simulator
 #bccrss #legalnamefraud #idzilleagle #truthbillboards #legalnamefraudtruthradio #crssnow
 
 DOWNLOADABLE EXE FILE INCLUDED!!! [just download, and double-click, that's it, you're in!]
-CURRENT VERSION = v7.5560 truth_engine.py
+CURRENT VERSION = v7.5564 
+truth_engine_v7.5564.py
 
 The TE-925 (Truth Engine) is a one-stop, interactive truth-learning hub designed to reveal the hidden mechanics of spiritual and commercial enslavement through legal name fraud. Powered by a cinematic Pygame dashboard, it delivers over 90 original essays, live sigil activations, quantum anomaly calculations, and a living witness indictment against global entities — all in one immersive, scrollable, command-driven environment. 
 
@@ -26,7 +27,7 @@ A cinematic, interactive hub that runs on any machine with Python + Pygame.
 
 💡 TE-925 Truth Engine 
 Purpose and Function
-The TE-925 Truth Engine, designated as v7.5560 and running as the JOHNNY 55 TRUTH INTERFACE, is a Pygame Simulator system.
+The TE-925 Truth Engine, designated as v7.5564 and running as the JOHNNY 55 TRUTH INTERFACE, is a Pygame Simulator system.
 
 Core Purpose: The simulator's primary function is to serve as an interactive, customizable research and awareness tool focused entirely on Legal Name Fraud. Its goal is to provide a gateway to learning all about Legal Name Fraud and, consequently, a path to learning all about yourself.
 
